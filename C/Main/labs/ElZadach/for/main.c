@@ -14,7 +14,7 @@ double expo (double x, double step){
 
 void main (){
     double x=6, res=1+x;
-    int k=10,n=7,i,j,sum;
+    int k=10,n=7,i,j,sum,count;
     int array[k][n];
     for (int i=0;i<k;i++){
         for(int j=0;j<n;j++){
