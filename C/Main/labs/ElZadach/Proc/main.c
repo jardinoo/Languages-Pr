@@ -46,6 +46,8 @@ void main () {
     // printf("%p",p2);
 }
 
+
+
 double Exp1 (double x, double e){
     //exp(x) = 1 + x + x2/(2!)+ x3/(3!) + . . . + xn/(n!) + .
     //Proc40
